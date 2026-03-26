@@ -1,0 +1,105 @@
+# VerdeLab
+
+> Software house italiana specializzata in intelligenza artificiale applicata, architetture agentiche e automazione dei processi aziendali. Sede ad Albinea, Reggio Emilia, Italia. Attiva nel Natural Language Processing dal 2003.
+
+VerdeLab progetta e sviluppa sistemi AI che lavorano davvero: non dimostrazioni, ma agenti autonomi capaci di agire, decidere e integrarsi nei processi aziendali esistenti. Ogni soluzione è su misura, selezionando ogni volta l'architettura più adatta al problema — online o on-premise — senza dipendenze da un singolo vendor.
+
+Per approfondimenti completi sui singoli servizi: [llms-full.txt](https://www.verdelab.info/llms-full.txt)
+
+## Identità
+
+- **Nome**: VerdeLab
+- **Tipo**: Software house (consulenza + prodotti proprietari)
+- **Sede**: Albinea, Reggio Emilia, Italia (IT-RE)
+- **Coordinate**: 44.6500, 10.6167
+- **P.IVA**: 02744010360
+- **Specializzazione principale**: Agentic AI, Orchestrazione di agenti, NLP, Automazione processi aziendali
+- **NLP e AI applicata dal**: 2003 (progetto OMEO con Promete – spin-off INFM-CNR)
+- **Lingua principale**: Italiano (anche multilingua)
+- **Sito**: https://www.verdelab.info
+- **GitHub**: https://github.com/VerdeLab
+- **LinkedIn**: https://www.linkedin.com/company/verdelabgroup/
+
+## Prodotto Flagship
+
+### CleverFlow
+
+CleverFlow è il prodotto AI-based di VerdeLab per l'automazione dei processi documentali aziendali. Crea workflow Zero-Touch che collegano email, documenti e ERP senza intervento umano, dalla ricezione all'aggiornamento del sistema gestionale.
+
+**Caratteristiche principali:**
+- Intake intelligente di email e documenti in qualsiasi formato
+- OCR e estrazione dati strutturati con validazione automatica
+- Decisione agentica basata su regole aziendali configurabili
+- Sincronizzazione bidirezionale con i principali ERP del mercato italiano e internazionale
+- Dashboard di supervisione e escalation umana per i soli casi ambigui
+- Architettura Zero-Touch: nessun intervento manuale nel flusso standard
+
+**Stato**: In sviluppo attivo — architettura agentica applicata all'operation aziendale.
+**URL**: https://www.verdelab.info/servizi/cleverflow
+
+## Servizi
+
+### Agentic AI & Orchestrazione
+Agenti autonomi capaci di agire, decidere e integrarsi nei flussi aziendali. Architetture multi-agente, orchestrazione di sistemi complessi, integrazione con ERP, CRM, database e API aziendali. Modelli online e on-premise.
+**URL**: https://www.verdelab.info/servizi/agentic-ai
+
+### Prompt Engineering & NLP
+Prompt engineering avanzato, Natural Language Processing su misura, Generative AI applicata. Pipeline di classificazione, estrazione, summarization, RAG e knowledge retrieval calibrate sul dominio del cliente.
+**URL**: https://www.verdelab.info/servizi/prompt-engineering
+
+### Office Automation
+Gestione intelligente di pratiche, comunicazioni, customer service e processi ripetitivi. Agenti conversazionali in italiano disponibili 24/7, integrazione con gli strumenti esistenti senza migrazioni.
+**URL**: https://www.verdelab.info/servizi/office-automation
+
+### Data Intelligence & ML
+Analisi granulare a supporto di decisioni rapide e informate. Machine learning, pattern recognition e modelli predittivi integrati nei processi produttivi reali, non confinati nei notebook.
+**URL**: https://www.verdelab.info/servizi/data-intelligence
+
+### Consulenza & Formazione
+IT consulting, project management e formazione sui modelli AI. Roadmap di adozione AI, workshop pratici su prompt engineering, affiancamento team interni. Collaborazione con enti di formazione.
+**URL**: https://www.verdelab.info/servizi/consulenza-formazione
+
+## Storico e Competenze
+
+VerdeLab lavora sull'elaborazione del linguaggio e sull'intelligenza artificiale applicata dal 2003, quando ha sviluppato OMEO — un sistema di analisi linguistica per la ricerca omeopatica — in collaborazione con Promete (spin-off dell'Istituto Nazionale per la Fisica della Materia, INFM-CNR). I Large Language Model non esistevano ancora.
+
+Da allora: motori di ricerca semantici (2021), chatbot conversazionali in italiano (2021), trascrizione e traduzione audio/video (2022), piattaforme Generative AI (2023–2024), architetture agentiche e orchestrazione multi-agente (2024–oggi).
+
+**Competenze tecniche**:
+- Agentic AI e orchestrazione di agenti multipli
+- Prompt Engineering avanzato
+- Natural Language Processing (NLP) e Generative AI
+- Machine Learning e Data Science
+- Full Stack Development
+- IT Consulting e Project Management
+- Modelli open source on-premise (LLM locali)
+
+## Partnership
+
+### Promete
+Spin-off dell'Istituto Nazionale per la Fisica della Materia (INFM-CNR). Partner scientifico di VerdeLab per progetti ad alto contenuto innovativo e ricerca applicata.
+**Sito**: https://www.promete.it/
+
+### Polaris Creative Studio
+Studio specializzato in UX/UI e sviluppo di esperienze digitali su misura. Partner creativo di VerdeLab per garantire che ogni soluzione sia tanto potente quanto intuitiva.
+**Sito**: https://polariscreative.studio/
+
+## Posizionamento
+
+VerdeLab non è una fabbrica di codice generalista. È un laboratorio che comprende il linguaggio, i dati e l'intelligenza artificiale come strumenti per creare valore reale e misurabile. La specializzazione in architetture agentiche e NLP rende VerdeLab un partner ideale per aziende che vogliono automatizzare processi complessi con AI concreta, non con demo.
+
+Mission: rendere ogni cliente più competitivo, oggi e domani — senza sprechi, senza sovrastrutture.
+
+## Contatti
+
+- **Sito web**: https://www.verdelab.info
+- **GitHub**: https://github.com/VerdeLab
+- **LinkedIn**: https://www.linkedin.com/company/verdelabgroup/
+- **Sede**: Via Giotto da Bondone 4, 42020 Albinea (RE), Italia
+- **PEC**: luigi.verde@pec.it
+
+---
+
+*Questo file segue lo standard llms.txt per la Generative Engine Optimization (GEO).*
+*Per il dettaglio completo dei servizi: https://www.verdelab.info/llms-full.txt*
+*Aggiornato: 2026*

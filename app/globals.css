@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-base: #F5F4F0;
+    --color-teal: #00B4A6;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    scroll-behavior: auto; /* Lenis handles this */
+  }
+
+  body {
+    @apply bg-base text-ink font-sans;
+    overflow-x: hidden;
+  }
+
+  /* Desktop/Mouse: Hide default cursor */
+  @media (pointer: fine) {
+    html, body {
+      cursor: none;
+    }
+  }
+
+  /* Mobile/Touch: Show default cursor (if any) */
+  @media (pointer: coarse) {
+    html, body {
+      cursor: auto !important;
+    }
+  }
+
+  /* Lenis smooth scroll */
+  html.lenis {
+    height: auto;
+  }
+
+  .lenis.lenis-smooth {
+    scroll-behavior: auto;
+  }
+
+  .lenis.lenis-smooth [data-lenis-prevent] {
+    overscroll-behavior: contain;
+  }
+
+  .lenis.lenis-stopped {
+    overflow: hidden;
+  }
+
+  /* Selection */
+  ::selection {
+    background-color: rgba(0, 180, 166, 0.2);
+    color: #0C0C0C;
+  }
+
+  /* Focus visible */
+  :focus-visible {
+    outline: 2px solid #00B4A6;
+    outline-offset: 3px;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

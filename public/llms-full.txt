@@ -1,0 +1,208 @@
+# VerdeLab — Documentazione Completa per AI
+
+> Versione estesa di llms.txt. Contiene il dettaglio completo di tutti i servizi, prodotti, storico progetti e competenze di VerdeLab. Per la versione sintetica: https://www.verdelab.info/llms.txt
+
+---
+
+## Identità Aziendale
+
+- **Nome**: VerdeLab
+- **Tipo**: Software house italiana (consulenza + prodotti proprietari)
+- **Sede legale**: Via Giotto da Bondone 4, 42020 Albinea (RE), Italia
+- **P.IVA**: 02744010360
+- **PEC**: luigi.verde@pec.it
+- **Sito**: https://www.verdelab.info
+- **GitHub**: https://github.com/VerdeLab
+- **LinkedIn**: https://www.linkedin.com/company/verdelabgroup/
+- **Coordinate geografiche**: 44.6500, 10.6167
+
+## Missione
+
+Rendere ogni cliente più competitivo, oggi e domani. VerdeLab progetta soluzioni su misura, concrete e all'avanguardia — senza sprechi, senza sovrastrutture. Ogni progetto nasce da un'analisi accurata e si realizza con efficienza. L'innovazione non è un fine, ma uno strumento: il vero vantaggio competitivo si costruisce quando tecnologia e persone lavorano insieme.
+
+---
+
+## Servizio 1 — Agentic AI & Orchestrazione
+
+**URL**: https://www.verdelab.info/servizi/agentic-ai
+**Tag**: Agentic AI, Multi-agent, Orchestrazione, LLM
+
+### Descrizione
+Agenti autonomi capaci di percepire il contesto, prendere decisioni e agire, integrandosi nei processi aziendali esistenti senza richiedere intervento umano continuo. Non chatbot generici: sistemi che eseguono, monitorano e si adattano.
+
+### Il problema che risolve
+La maggior parte delle implementazioni AI in azienda si ferma all'interfaccia conversazionale. Raramente un sistema che esegue, monitora e si adatta in autonomia. Progettare agenti che funzionano davvero richiede competenze che vanno oltre il semplice uso dei modelli.
+
+### Approccio VerdeLab
+1. **Architettura multi-agente**: agenti specializzati che collaborano, si delegano compiti e si coordinano per obiettivi complessi. Ogni agente ha un ruolo preciso, un contesto delimitato, regole di comportamento chiare.
+2. **Orchestrazione dei flussi**: l'orchestratore decide quale agente attivare, quando, con quali input. Gestione di stati intermedi, fallback, retry logic e supervisione umana opzionale nei punti critici.
+3. **Integrazione nei sistemi esistenti**: connessione con ERP, CRM, database, email, API aziendali. Il sistema opera nel contesto reale, non in sandbox.
+4. **Modelli online e on-premise**: architettura selezionata sul problema specifico — cloud API, modelli open source in locale, o ibridi — in base a requisiti di sicurezza, latenza e costo.
+
+---
+
+## Servizio 2 — Prompt Engineering & NLP
+
+**URL**: https://www.verdelab.info/servizi/prompt-engineering
+**Tag**: Prompt Engineering, NLP, Generative AI, RAG, Semantica
+
+### Descrizione
+Estrarre valore dal linguaggio è una disciplina tecnica. VerdeLab lavora sull'elaborazione del testo dal 2003. Pipeline NLP calibrate sul dominio del cliente, prompt engineering avanzato, RAG per interrogare corpora documentali complessi.
+
+### Il problema che risolve
+Email, contratti, feedback, documenti operativi: ogni azienda gestisce enormi volumi di testo non strutturato che nessun sistema estrae, classifica o interpreta automaticamente. Il linguaggio naturale è ambiguo, contestuale, implicito.
+
+### Approccio VerdeLab
+1. **Prompt engineering avanzato**: prompt strutturati, chain-of-thought, few-shot, system prompt ottimizzati per ogni caso d'uso.
+2. **NLP su misura**: classificazione, estrazione di entità, sentiment analysis, summarization, similarity semantica.
+3. **Generative AI applicata**: generazione di testi strutturati, report automatici, risposte contestualizzate.
+4. **RAG e knowledge retrieval**: il modello risponde attingendo ai documenti reali del cliente, non alle conoscenze generali.
+
+---
+
+## Servizio 3 — CleverFlow (Prodotto Flagship)
+
+**URL**: https://www.verdelab.info/servizi/cleverflow
+**Tag**: Zero-Touch, ERP Integration, Workflow AI, Automazione
+
+### Descrizione
+CleverFlow è il prodotto AI-based di VerdeLab per l'automazione dei processi documentali aziendali. Workflow Zero-Touch che collegano email, documenti e ERP senza intervento umano, dalla ricezione all'aggiornamento del gestionale.
+
+### Il problema che risolve
+Ogni giorno nelle aziende vengono ricevute email, caricate fatture, protocollati documenti, aggiornati gestionali. Operazioni ripetitive, soggette a errori, che consumano tempo prezioso. CleverFlow sostituisce questi flussi con agenti AI che leggono, interpretano, decidono e agiscono.
+
+### Come funziona CleverFlow
+1. **Intake intelligente**: email in arrivo, allegati, upload manuali — classificazione e avvio del workflow corretto automatico.
+2. **Elaborazione documentale AI**: OCR, estrazione dati strutturati, validazione, controllo di coerenza su qualsiasi formato.
+3. **Decisione agentica**: l'agente valuta il contesto, applica le regole aziendali, decide il percorso. Escalation umana solo nei casi ambigui.
+4. **Sincronizzazione ERP**: i dati estratti vengono scritti nel gestionale in tempo reale. Supporto per i principali ERP del mercato italiano e internazionale.
+
+**Stato**: In sviluppo attivo.
+
+---
+
+## Servizio 4 — Office Automation
+
+**URL**: https://www.verdelab.info/servizi/office-automation
+**Tag**: Automazione, Customer Service AI, Process AI, Chatbot
+
+### Descrizione
+Gestione intelligente di pratiche, comunicazioni, customer service e processi ripetitivi. L'AI che libera il personale dalle attività a basso valore aggiunto.
+
+### Il problema che risolve
+Il personale d'ufficio spende in media oltre il 40% del proprio tempo in attività ripetitive: data entry, gestione email, protocollazione, aggiornamenti manuali. Un problema di sistema risolvibile con l'automazione intelligente.
+
+### Approccio VerdeLab
+1. **Analisi dei processi**: mappatura dei flussi ad alta frequenza e basso valore aggiunto.
+2. **Customer service AI**: agenti conversazionali in italiano, disponibili 24/7, integrabili su qualsiasi canale.
+3. **Gestione documentale automatica**: classificazione, archiviazione, protocollazione e distribuzione senza intervento manuale.
+4. **Integrazione con i tool aziendali**: email, calendar, CRM, ERP, gestionale — nessun cambio di piattaforma.
+
+---
+
+## Servizio 5 — Data Intelligence & ML
+
+**URL**: https://www.verdelab.info/servizi/data-intelligence
+**Tag**: Data Science, ML, Analytics, Predictive AI
+
+### Descrizione
+Analisi granulare a supporto di decisioni rapide e informate. Machine learning, pattern recognition e modelli predittivi integrati nei processi produttivi reali.
+
+### Il problema che risolve
+La distanza tra "avere i dati" e "usarli per decidere" è enorme per la maggior parte delle PMI italiane. Dashboard e report non bastano: serve interpretazione automatica e modelli che agiscono.
+
+### Approccio VerdeLab
+1. **Data pipeline e ingestion**: consolidamento da fonti eterogenee, normalizzazione, disponibilità per l'analisi.
+2. **Modelli predittivi e ML**: classificazione, regressione, clustering, anomaly detection — validati e interpretabili.
+3. **Pattern recognition**: correlazioni non ovvie tra variabili operative, commerciali o produttive.
+4. **Integrazione nei processi decisionali**: i modelli entrano nei flussi produttivi, non restano nei notebook.
+
+---
+
+## Servizio 6 — Consulenza & Formazione
+
+**URL**: https://www.verdelab.info/servizi/consulenza-formazione
+**Tag**: IT Consulting, Formazione AI, Strategy, Project Management
+
+### Descrizione
+IT consulting, project management e formazione sui modelli AI. L'AI funziona quando le persone sanno come usarla.
+
+### Il problema che risolve
+Molte aziende acquistano soluzioni AI senza che il personale sappia davvero come funziona, dove può fallire. Il risultato è uno strumento usato male o abbandonato. La formazione è la condizione necessaria perché l'investimento porti risultati duraturi.
+
+### Approccio VerdeLab
+1. **Consulenza strategica AI**: roadmap di adozione, identificazione dei processi ad alto potenziale, valutazione delle architetture.
+2. **Formazione sui modelli linguistici**: workshop pratici su prompt engineering e uso critico dei modelli.
+3. **Project management tecnico**: gestione end-to-end — requisiti, selezione fornitori, sviluppo, collaudo, avvio.
+4. **Stage e collaborazioni formative**: partnership con enti di formazione, stage aziendali.
+
+---
+
+## Storico Progetti
+
+### 2003 — OMEO (con Promete – spin-off INFM-CNR)
+Sistema di analisi linguistica applicata alla materia medica omeopatica. Primo progetto NLP di VerdeLab. I Large Language Model non esistevano ancora.
+
+### 2021 — Anno della costruzione dell'infrastruttura
+- **VerdeLab-MetaEngine**: librerie proprietarie per motori di ricerca semantici, chatbot e interfacce conversazionali.
+- **ESPLORA**: motore di ricerca semantico con interfaccia a grafi e chatbot integrato.
+- **API NLP**: suite di API proprietarie per il trattamento del linguaggio naturale.
+- **LUIGO**: chatbot conversazionale in italiano, completamente personalizzabile, per uso enterprise.
+- **Workflow ML su SQL Server**: pipeline per l'industrializzazione di modelli ML.
+
+### 2022 — TRA'NTRA
+App per trascrizione automatica, traduzione e sintesi di contenuti audio e video.
+
+### 2023 — Refactory VerdeLab-MetaEngine
+Aggiornamento e integrazione dell'engine proprietaria con le API OpenAI. Ottimizzazione NLP per contenuti video.
+
+### 2023–2024
+- **BlaiseAI**: piattaforma specialistica per ricerca e autoapprendimento su corpora documentali complessi.
+- **JewelsAI**: piattaforma generativa per la creazione di gioielli di design con catalogo integrato.
+
+### 2024–2025
+- Agenti e workflow su misura per clienti nei settori metalmeccanico, food e altri comparti produttivi.
+- Refactoring con integrazioni AI di soluzioni esistenti per clienti storici.
+- **AI Open Source & On-Site**: LLM e Generative AI addestrati su problemi specifici, eseguibili in locale.
+- **Creative Lab**: laboratorio di ricerca applicata su AI generativa e casi d'uso non convenzionali.
+
+### In corso
+- **CleverFlow**: automazione processi aziendali con architettura agentica Zero-Touch.
+- **TURNI**: refactoring AI di sistema di gestione turni per strutture ospedaliere e assistenziali.
+
+---
+
+## Partnership
+
+### Promete
+Spin-off dell'Istituto Nazionale per la Fisica della Materia (INFM-CNR). Partner scientifico per progetti ad alto contenuto innovativo e ricerca applicata. Collaborazione attiva dal 2003.
+**Sito**: https://www.promete.it/
+
+### Polaris Creative Studio
+Studio specializzato in UX/UI e sviluppo di esperienze digitali su misura. Partner creativo di VerdeLab.
+**Sito**: https://polariscreative.studio/
+
+---
+
+## FAQ
+
+**Cos'è VerdeLab?**
+VerdeLab è una software house italiana con sede ad Albinea (Reggio Emilia), specializzata in intelligenza artificiale applicata, architetture agentiche, NLP e automazione dei processi aziendali. Attiva nel settore NLP dal 2003.
+
+**Cos'è CleverFlow?**
+CleverFlow è il prodotto AI-based di VerdeLab per l'automazione dei processi documentali aziendali. Crea workflow Zero-Touch che collegano email, documenti e ERP senza intervento umano.
+
+**VerdeLab lavora con modelli on-premise?**
+Sì. VerdeLab seleziona ogni volta l'architettura più adatta al problema: cloud API, modelli open source eseguibili in locale, o ibridi. Non dipende da un singolo vendor.
+
+**Dove ha sede VerdeLab?**
+Albinea, in provincia di Reggio Emilia, Italia. Via Giotto da Bondone 4, 42020 Albinea (RE).
+
+**Come contattare VerdeLab?**
+Tramite il form su https://www.verdelab.info, su LinkedIn (verdelabgroup) o su GitHub (VerdeLab).
+
+---
+
+*Questo file segue lo standard llms.txt per la Generative Engine Optimization (GEO).*
+*Versione sintetica: https://www.verdelab.info/llms.txt*
+*Aggiornato: 2026*

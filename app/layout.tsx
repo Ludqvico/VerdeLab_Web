@@ -232,3 +232,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+// Last updated: 2026-03-27 for GitHub authentication verification.
